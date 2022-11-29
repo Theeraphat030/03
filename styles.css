@@ -1,0 +1,1046 @@
+body{
+	width: 100%;
+}
+.e.nav { 
+	overflow:hidden;
+}
+.e5_98 { 
+	background-color:rgba(92.45754316449165, 154.31999444961548, 189.11764562129974, 1);
+	width:100%;
+	height:100%;
+	position:absolute;
+}
+.e5_99 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:100%;
+	height:46px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e5_101 { 
+	color:rgba(255, 255, 255, 1);
+	width:47px;
+	height:18px;
+	position:absolute;
+	left:1152px;
+	top:14px;
+	font-family:Montserrat;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:-1.5;
+}
+.e5_102 { 
+	color:rgba(255, 255, 255, 1);
+	width:47px;
+	height:18px;
+	position:absolute;
+	left:1258px;
+	top:14px;
+	font-family:Montserrat;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:-1.5;
+}
+.e5_103 { 
+	color:rgba(255, 255, 255, 1);
+	width:50px;
+	height:18px;
+	position:absolute;
+	left:1380px;
+	top:14px;
+	font-family:Montserrat;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:-1.5;
+}
+.e5_104 { 
+	color:rgba(255, 255, 255, 1);
+	width:59px;
+	height:18px;
+	position:absolute;
+	left:1504px;
+	top:14px;
+	font-family:Montserrat;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:-1.5;
+}
+.e5_105 { 
+	width:130px;
+	height:40px;
+	position:absolute;
+	left:1610px;
+	top:3px;
+}
+.ei5_105_0_435 { 
+	background-color:rgba(151.93750709295273, 0, 0, 1);
+	width:130px;
+	height:40px;
+	position:absolute;
+	left: 100px;px;
+	top:100px;
+	border-top-left-radius:6px;
+	border-top-right-radius:6px;
+	border-bottom-left-radius:6px;
+	border-bottom-right-radius:6px;
+}
+.ei5_105_0_437 { 
+	color:rgba(255, 255, 255, 1);
+	width:62px;
+	height:18px;
+	position:absolute;
+	left:34px;
+	top:100px;
+	font-family:Montserrat;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:-1.5;
+}
+.e12_90 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:100%;
+	height:564px;
+	position:absolute;
+	left:0px;
+	top:44px;
+}
+.e12_92 { 
+	width:100%;
+	height:552px;
+	position:absolute;
+	left:0px;
+	top:46px;
+	background-image:url(images/rectangle_5.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e12_87 { 
+	border-radius:500px;
+	width:472px;
+	height:472px;
+	position:absolute;
+	left:196px;
+	top:69px;
+	background-image:url(images/ellipse_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e12_88 { 
+	color:rgba(255, 255, 255, 1);
+	width:840px;
+	height:36px;
+	position:absolute;
+	left:756px;
+	top:287px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:100px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_94 { 
+	color:rgba(255, 255, 255, 1);
+	width:311px;
+	height:36px;
+	position:absolute;
+	left:1020px;
+	top:395px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:100px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_89 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:568px;
+	height:6px;
+	position:absolute;
+	left:935px;
+	top:362px;
+}
+.e12_95 { 
+	width:1680px;
+	height:674px;
+	position:absolute;
+	left:80px;
+	top:1546px;
+	background-image:url(images/body_l.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e12_120 { 
+	width:1680px;
+	height:806px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/e3bfda3a948ccd42b674e79119b4a852_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e12_96 { 
+	color:rgba(0, 0, 0, 1);
+	width:1085px;
+	height:144px;
+	position:absolute;
+	left:75px;
+	top:37px;
+	font-size: 75px;
+	font-family:Kameron;
+	text-align:left;
+	font-size:Symbol(figma.mixed)px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_97 { 
+	color:rgba(0, 0, 0, 0.800000011920929);
+	width:286px;
+	height:54px;
+	position:absolute;
+	left:88px;
+	top:152px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:50px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_98 { 
+	width:429px;
+	height:382px;
+	position:absolute;
+	left:80px;
+	top:216px;
+}
+.e12_99 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:429px;
+	height:382px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e12_99 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e12_100 { 
+	width:429px;
+	height:275px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.i12_100_0_447 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.ei12_100_0_447 { 
+	width:429px;
+	height:275px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(https://scontent.fbkk9-2.fna.fbcdn.net/v/t31.18172-8/10835188_886342041385971_1540870064067785098_o.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9267fe&_nc_ohc=LpMi5pG9jYQAX_K7ZZJ&_nc_oc=AQkvsZm66NiSPmx1-qXRAa9Xd6LQgYMecSV-zqK0vttUzGzU18DW0nMwXRF2vx8GadQ&_nc_ht=scontent.fbkk9-2.fna&oh=00_AfCJuBLC0L3g01PzAlXFsbyv3FcXkkPyolLfNXX-OvGPHw&oe=63ACD863);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e12_101 { 
+	color:rgba(0, 0, 0, 1);
+	width:348px;
+	height:36px;
+	position:absolute;
+	left:41px;
+	top:317px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_103 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:429px;
+	height:382px;
+	position:absolute;
+	left:593px;
+	top:216px;
+}
+.e12_103 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e12_104 { 
+	width:429px;
+	height:275px;
+	position:absolute;
+	left:593px;
+	top:216px;
+}
+.i12_104_0_447 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.ei12_104_0_447 { 
+	width:429px;
+	height:275px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(https://media.tenor.com/7-CNilpY-l8AAAAd/link-start-sao.gif);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e12_105 { 
+	color:rgba(0, 0, 0, 1);
+	width:346px;
+	height:36px;
+	position:absolute;
+	left:635px;
+	top:533px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_107 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:429px;
+	height:382px;
+	position:absolute;
+	left:1107px;
+	top:216px;
+}
+.e12_107 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e12_108 { 
+	width:429px;
+	height:275px;
+	position:absolute;
+	left:1107px;
+	top:216px;
+}
+.i12_108_0_447 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.ei12_108_0_447 { 
+	width:429px;
+	height:275px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/rectangle.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e12_109 { 
+	color:rgba(0, 0, 0, 1);
+	width:339px;
+	height:36px;
+	position:absolute;
+	left:1171px;
+	top:533px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_118 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:800px;
+	height:4px;
+	position:absolute;
+	left:80px;
+	top:141px;
+}
+.e12_122 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1680px;
+	height:804px;
+	position:absolute;
+	left:80px;
+	top:670px;
+}
+.e19_73 { 
+	width:1680px;
+	height:827px;
+	position:absolute;
+	left:0px;
+	top:-23px;
+	background-image:url(images/60ce685e6a17918d5f5d225ba96362a4_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e12_123 { 
+	color:rgba(0, 0, 0, 1);
+	width:410px;
+	height:71px;
+	position:absolute;
+	left:635px;
+	top:40px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:100px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_138 { 
+	width:509px;
+	height:724px;
+	position:absolute;
+	left:73px;
+	top:40px;
+	background-image:url(images/284611439_157128746807377_1946088355886882244_n_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e12_142 { 
+	color:rgba(0, 0, 0, 1);
+	width:272px;
+	height:72px;
+	position:absolute;
+	left:635px;
+	top:126px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_157 { 
+	color:rgba(255, 255, 255, 1);
+	width:99px;
+	height:72px;
+	position:absolute;
+	left:948px;
+	top:735px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_158 { 
+	color:rgba(255, 255, 255, 1);
+	width:215px;
+	height:72px;
+	position:absolute;
+	left:1183px;
+	top:735px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_159 { 
+	color:rgb(255, 255, 255);
+	width:140px;
+	height:72px;
+	position:absolute;
+	left:1510px;
+	top:735px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_143 { 
+	color:rgba(0, 0, 0, 1);
+	width:585px;
+	height:72px;
+	position:absolute;
+	left:635px;
+	top:178px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_144 { 
+	color:rgba(0, 0, 0, 1);
+	width:415px;
+	height:72px;
+	position:absolute;
+	left:635px;
+	top:241px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_145 { 
+	color:rgba(0, 0, 0, 1);
+	width:480px;
+	height:72px;
+	position:absolute;
+	left:635px;
+	top:313px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_146 { 
+	color:rgba(0, 0, 0, 1);
+	width:513px;
+	height:72px;
+	position:absolute;
+	left:635px;
+	top:385px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_147 { 
+	color:rgba(0, 0, 0, 1);
+	width:925px;
+	height:144px;
+	position:absolute;
+	left:635px;
+	top:457px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_148 { 
+	width:126px;
+	height:126px;
+	position:absolute;
+	left:1511px;
+	top:601px;
+}
+.ei12_148_0_570 { 
+	transform: rotate(3.1805546814635168e-15deg);
+	width:126px;
+	height:126px;
+	position:absolute;
+	left:0.0000017114271031459793px;
+	top:-0.00003119033863185905px;
+	background-image:url(https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.i12_148_0_570 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e12_149 { 
+	width:126px;
+	height:126px;
+	position:absolute;
+	left:1214px;
+	top:601px;
+}
+.ei12_149_0_570 { 
+	transform: rotate(3.1805546814635168e-15deg);
+	width:126px;
+	height:126px;
+	position:absolute;
+	left:0.0000017114271031459793px;
+	top:-0.00003119033863185905px;
+	background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LINE_logo.svg/2048px-LINE_logo.svg.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.i12_149_0_570 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e12_150 { 
+	width:125px;
+	height:126px;
+	position:absolute;
+	left:925px;
+	top:601px;
+}
+.ei12_150_0_570 { 
+	transform: rotate(3.1805546814635168e-15deg);
+	width:125px;
+	height:126px;
+	position:absolute;
+	left:0.0000017114271031459793px;
+	top:-0.00003119033863185905px;
+	background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.i12_150_0_570 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e12_151 { 
+	width:126px;
+	height:126px;
+	position:absolute;
+	left:645px;
+	top:601px;
+}
+.ei12_151_0_570 { 
+	transform: rotate(3.1805546814635168e-15deg);
+	width:126px;
+	height:126px;
+	position:absolute;
+	left:0.0000017114271031459793px;
+	top:-0.00003119033863185905px;
+	background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.i12_151_0_570 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e19_75 { 
+	width:242px;
+	height:204px;
+	position:absolute;
+	left:593px;
+	top:703px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}
+.e19_74 { 
+	width:202px;
+	height:72px;
+	position:absolute;
+	left:-573px;
+	top:-683px;
+}
+.e12_156 { 
+	color:rgba(255, 255, 255, 1);
+	width:202px;
+	height:72px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e19_76 { 
+	width:202px;
+	height:72px;
+	position:absolute;
+	left:-573px;
+	top:-591px;
+}
+.e19_77 { 
+	color:rgba(255, 255, 255, 1);
+	width:202px;
+	height:72px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e19_78 { 
+	width:130px;
+	height:40px;
+	position:absolute;
+	left:907px;
+	top:464px;
+}
+.ei19_78_0_435 { 
+	background-color:rgba(24.000000469386578, 160.00000566244125, 251.00000023841858, 1);
+	width:130px;
+	height:40px;
+	position:absolute;
+	left:0px;
+	top:30px;
+	border-top-left-radius:6px;
+	border-top-right-radius:6px;
+	border-bottom-left-radius:6px;
+	border-bottom-right-radius:6px;
+}
+.ei19_78_0_437 { 
+	color:rgba(255, 255, 255, 1);
+	width:62px;
+	height:18px;
+	position:absolute;
+	left:34px;
+	top:40px;
+	font-family:Montserrat;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:-1.5;
+}
+.e12_163 { 
+	width:44px;
+	height:44px;
+	position:absolute;
+	left:7221px;
+	top:345px;
+}
+.ei12_163_12_171 { 
+	transform: rotate(3.1805546814635168e-15deg);
+	background-color:rgba(229.00000154972076, 229.00000154972076, 229.00000154972076, 1);
+	width:44px;
+	height:44px;
+	position:absolute;
+	left:0.0000017114271031459793px;
+	top:-0.00003119033863185905px;
+}
+.i12_163_12_171 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e12_160 { 
+	width:44px;
+	height:44px;
+	position:absolute;
+	left:7414px;
+	top:345px;
+}
+.ei12_160_12_171 { 
+	transform: rotate(3.1805546814635168e-15deg);
+	background-color:rgba(229.00000154972076, 229.00000154972076, 229.00000154972076, 1);
+	width:44px;
+	height:44px;
+	position:absolute;
+	left:0.0000017114271031459793px;
+	top:-0.00003119033863185905px;
+}
+.i12_160_12_171 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e12_161 { 
+	width:44px;
+	height:44px;
+	position:absolute;
+	left:7350px;
+	top:345px;
+}
+.ei12_161_12_171 { 
+	transform: rotate(3.1805546814635168e-15deg);
+	background-color:rgba(229.00000154972076, 229.00000154972076, 229.00000154972076, 1);
+	width:44px;
+	height:44px;
+	position:absolute;
+	left:0.0000017114271031459793px;
+	top:-0.00003119033863185905px;
+}
+.i12_161_12_171 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e12_162 { 
+	width:44px;
+	height:44px;
+	position:absolute;
+	left:7286px;
+	top:345px;
+}
+.ei12_162_12_171 { 
+	transform: rotate(3.1805546814635168e-15deg);
+	background-color:rgba(229.00000154972076, 229.00000154972076, 229.00000154972076, 1);
+	width:44px;
+	height:44px;
+	position:absolute;
+	left:0.0000017114271031459793px;
+	top:-0.00003119033863185905px;
+}
+.i12_162_12_171 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e12_186 { 
+	background-color:rgba(255, 255, 255, 0);
+	width:1680px;
+	height:698px;
+	position:absolute;
+	left:80px;
+	top:2264px;
+}
+.e12_187 { 
+	color:rgba(0, 0, 0, 1);
+	width:750px;
+	height:144px;
+	position:absolute;
+	left:111px;
+	top:27px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:100px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e19_71 { 
+	width:1679px;
+	height:698px;
+	position:absolute;
+	left:1px;
+	top:0px;
+	background-image:url(images/342836c81798e4efbc2545720020a029_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e12_188 { 
+	width:332px;
+	height:212px;
+	position:absolute;
+	left:111px;
+	top:138px;
+}
+.e12_189 { 
+	color:rgba(0, 0, 0, 1);
+	width:332px;
+	height:53px;
+	position:absolute;
+	left:0px;
+	top:159px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:60px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_192 { 
+	transform: rotate(-3.1805546814635168e-15deg);
+	width:150.72886657714844px;
+	height:150.72886657714844px;
+	position:absolute;
+	left:65px;
+	top:0px;
+}
+.e12_193 { 
+	transform: rotate(3.1805546814635168e-15deg);
+	width:150.72886657714844px;
+	height:150.72886657714844px;
+	position:absolute;
+	left:0.0000017114271031459793px;
+	top:-0.00003119033863185905px;
+	background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/512px-Adobe_Photoshop_Lightroom_CC_logo.svg.png?20200616120137);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e12_193 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e19_58 { 
+	width:342px;
+	height:220px;
+	position:absolute;
+	left:101px;
+	top:415px;
+}
+.e19_59 { 
+	color:rgba(0, 0, 0, 1);
+	width:342px;
+	height:53px;
+	position:absolute;
+	left:0px;
+	top:167px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:60px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e19_60 { 
+	transform: rotate(-3.1805546814635168e-15deg);
+	width:150.72886657714844px;
+	height:150.72886657714844px;
+	position:absolute;
+	left:75px;
+	top:0px;
+}
+.ei19_60_12_193 { 
+	transform: rotate(3.1805546814635168e-15deg);
+	width:150.72886657714844px;
+	height:150.72886657714844px;
+	position:absolute;
+	left:0.0000017114271031459793px;
+	top:-0.00003119033863185905px;
+	background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.i19_60_12_193 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e19_62 { 
+	width:909px;
+	height:220px;
+	position:absolute;
+	left:705px;
+	top:415px;
+}
+.e19_63 { 
+	color:rgba(0, 0, 0, 1);
+	width:332px;
+	height:53px;
+	position:absolute;
+	left:0px;
+	top:167px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:60px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e19_64 { 
+	transform: rotate(-3.1805546814635168e-15deg);
+	width:150.72886657714844px;
+	height:150.72886657714844px;
+	position:absolute;
+	left:81px;
+	top:0px;
+}
+.ei19_64_12_193 { 
+	transform: rotate(3.1805546814635168e-15deg);
+	width:150.72886657714844px;
+	height:150.72886657714844px;
+	position:absolute;
+	left:0.0000017114271031459793px;
+	top:-0.00003119033863185905px;
+	background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/800px-Adobe_Illustrator_CC_icon.svg.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.i19_64_12_193 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e19_66 { 
+	width:332px;
+	height:220px;
+	position:absolute;
+	left:577px;
+	top:0px;
+}
+.e19_67 { 
+	color:rgba(0, 0, 0, 1);
+	width:332px;
+	height:53px;
+	position:absolute;
+	left:0px;
+	top:167px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:60px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e19_68 { 
+	transform: rotate(-3.1805546814635168e-15deg);
+	width:150.72886657714844px;
+	height:150.72886657714844px;
+	position:absolute;
+	left:91px;
+	top:0px;
+}
+.ei19_68_12_193 { 
+	transform: rotate(3.1805546814635168e-15deg);
+	width:150.72886657714844px;
+	height:150.72886657714844px;
+	position:absolute;
+	left:0.0000017114271031459793px;
+	top:-0.00003119033863185905px;
+	background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_%282020%29.svg/2101px-Adobe_Audition_CC_icon_%282020%29.svg.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.i19_68_12_193 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e12_206 { 
+	width:1111px;
+	height:216px;
+	position:absolute;
+	left:671px;
+	top:138px;
+}
+.e19_57 { 
+	width:517px;
+	height:216px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e12_207 { 
+	color:rgba(0, 0, 0, 1);
+	width:517px;
+	height:57px;
+	position:absolute;
+	left:0px;
+	top:159px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:60px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_208 { 
+	transform: rotate(-3.1805546814635168e-15deg);
+	width:150.72886657714844px;
+	height:150.72886657714844px;
+	position:absolute;
+	left:108px;
+	top:0px;
+}
+.ei12_208_12_193 { 
+	transform: rotate(3.1805546814635168e-15deg);
+	width:150.72886657714844px;
+	height:150.72886657714844px;
+	position:absolute;
+	left:0.0000017114271031459793px;
+	top:-0.00003119033863185905px;
+	background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.i12_208_12_193 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e12_210 { 
+	width:517px;
+	height:195px;
+	position:absolute;
+	left:594px;
+	top:0px;
+}
+.e12_211 { 
+	color:rgba(0, 0, 0, 1);
+	width:517px;
+	height:36px;
+	position:absolute;
+	left:0px;
+	top:159px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:60px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.e12_212 { 
+	transform: rotate(-3.1805546814635168e-15deg);
+	width:150.72886657714844px;
+	height:150.72886657714844px;
+	position:absolute;
+	left:108px;
+	top:0px;
+}
+.ei12_212_12_193 { 
+	transform: rotate(3.1805546814635168e-15deg);
+	width:150.72886657714844px;
+	height:150.72886657714844px;
+	position:absolute;
+	left:0.0000017114271031459793px;
+	top:-0.00003119033863185905px;
+	background-image:url(images/ellipse.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.i12_212_12_193 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
