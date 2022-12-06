@@ -10,3 +10,12 @@
 .rounded-circle{
     float: left;
 }
+.rounded{
+    float: left;
+    width: 500px;
+    height: 500px;
+    padding-right: 15px;
+}
+.card-body{
+    text-align: left;
+}
