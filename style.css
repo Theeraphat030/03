@@ -19,3 +19,9 @@
 .card-body{
     text-align: left;
 }
+.rounded-start{
+    padding: 10px;
+}
+.card{
+    size: 10px;
+}
